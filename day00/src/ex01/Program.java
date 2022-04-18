@@ -2,17 +2,21 @@ package ex01;
 import java.util.Scanner;
 
 public class Program {
+    private static final int ERROR_EXIT_CODE = -1;
+    private static final int DEFAULT_EXIT_CODE = 0;
+    private static final int EXACTLY_PRIME_NUM = 2;
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         final int input = scan.nextInt();
         boolean isInputPrime = true;
         int steps = 0;
         int sqrt;
-        if (input < 2) {
-            System.out.println("Illegal Argument");
-            System.exit(-1);
+        if (input < EXACTLY_PRIME_NUM) {
+            System.err.println("Illegal Argument");
+            System.exit(ERROR_EXIT_CODE);
         }
-        if (input == 2){
+        if (input == EXACTLY_PRIME_NUM){
             System.out.println(isInputPrime + " " + 1);
         }
         else {
@@ -26,7 +30,8 @@ public class Program {
             }
             System.out.println(isInputPrime + " " + steps);
         }
-        System.exit(0);
+        scan.close();
+        System.exit(DEFAULT_EXIT_CODE);
     }
     private static int mySqrt(int input) {
         long start = 1;
