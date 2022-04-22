@@ -1,5 +1,6 @@
 public class Egg implements Runnable {
     private int count;
+
     public Egg(int _count) {
         this.count = _count;
     }

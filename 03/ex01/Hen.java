@@ -1,5 +1,6 @@
 public class Hen implements Runnable {
     private int count;
+
     public Hen(int _count) {
         this.count = _count;
     }

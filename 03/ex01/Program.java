@@ -9,12 +9,20 @@ public class Program {
             System.err.println("Wrong number of arguments");
             System.exit(ERROR_EXIT_CODE);
         }
+
         int count = Integer.parseInt(args[0].substring(END_OF_PREFIX));
 
         Thread hen = new Thread(new Hen(count));
         Thread egg = new Thread(new Egg(count));
         egg.start();
         hen.start();
+
+        try {
+            hen.join();
+            egg.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 
     public static synchronized void printEgg() {

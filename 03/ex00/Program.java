@@ -2,6 +2,7 @@ public class Program {
 
     private static final int ERROR_EXIT_CODE = -1;
     private static final int END_OF_PREFIX = 8;
+
     public static void main(String[] args) {
         if (args.length != 1 || !args[0].startsWith("--count=")) {
             System.err.println("Wrong number of arguments");
@@ -11,6 +12,7 @@ public class Program {
 
         Egg egg = new Egg(count);
         Hen hen = new Hen(count);
+
         hen.start();
         egg.start();
 
@@ -20,6 +22,7 @@ public class Program {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+
         for (int i = 0; i < count; i++)
             System.out.println("HUMAN");
     }
