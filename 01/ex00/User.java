@@ -1,3 +1,4 @@
+package  ex00;
 public class User {
     private static int numberOfUsersCreated = 0;
     private String name;
