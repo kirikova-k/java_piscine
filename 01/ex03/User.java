@@ -1,3 +1,4 @@
+package ex00;
 public class User {
     private String name;
     private int identifier;

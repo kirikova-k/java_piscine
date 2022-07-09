@@ -1,3 +1,5 @@
+package ex01;
+
 public class Program {
     public static void main(String[] av) {
         System.out.println("-----------------USER_TESTS-----------------------");

@@ -1,3 +1,5 @@
+package ex02;
+
 public interface UsersList {
     int DEFAULT_SIZE = 10;
     int DEFAULT_SCALE = 2;

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b3c710d-1c9d-4928-9354-7d1d07c1367a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Program.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex00/out/production/ex00/ex00/ex00.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02/ex00/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02/ex00/ex00.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03/03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/ex00/ex001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/ex01/ex011.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/ex00/ex00.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/ex01/ex01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/ex02/ex02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06/ex00/Tests/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06/ex00/Tests/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06/ex01/Tests/src/main/main1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06/ex01/Tests/src/test/test1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../00/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex01/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex01/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/UserIdsGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex01/UserIdsGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02/UserIdsGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/UserIdsGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02/UsersArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/UsersArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02/UsersList.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/UsersList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex03/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex03/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02/ex00/FileAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02/ex00/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subjects_java_piscine_04_2022/day00_Management structures and arrays.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subjects_java_piscine_04_2022/day01_OOP:Collections.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subjects_java_piscine_04_2022/day02_IO, Files.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subjects_java_piscine_04_2022/day03_Threads.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subjects_java_piscine_04_2022/day04_JAR.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subjects_java_piscine_04_2022/day05_SQL:JDBC.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subjects_java_piscine_04_2022/day06_JUnit:Mockito.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subjects_java_piscine_04_2022/day07_Reflection.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subjects_java_piscine_04_2022/day08_Spring.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subjects_java_piscine_04_2022/day09_Sockets.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BhzglZqsWzbV1s4WUHgMuMtePb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Program (2)">
+    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex01.Program" />
+      <module name="01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02.Program" />
+      <module name="01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Program" />
+      <item itemvalue="Application.Program (1)" />
+      <item itemvalue="Application.Program (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program (2)" />
+        <item itemvalue="Application.Program (1)" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b3c710d-1c9d-4928-9354-7d1d07c1367a" name="Changes" comment="" />
+      <created>1657373217989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657373217989</updated>
+      <workItem from="1657373220441" duration="925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

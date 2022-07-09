@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Program" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ex00.Program" />
+    <module name="01" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex00" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="ex00.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

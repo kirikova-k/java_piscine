@@ -1,3 +1,5 @@
+package ex02;
+
 public class Program {
     public static void main(String[] av) {
         UsersArrayList usersArrayList = new UsersArrayList();

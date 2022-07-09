@@ -1,3 +1,5 @@
+package ex02;
+
 public class UsersArrayList implements UsersList {
 
     private User[] usersStorage;

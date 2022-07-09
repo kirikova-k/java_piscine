@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01/01.iml" filepath="$PROJECT_DIR$/01/01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/03.iml" filepath="$PROJECT_DIR$/03/03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/ex00/ex00.iml" filepath="$PROJECT_DIR$/05/ex00/ex00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/ex00/ex001.iml" filepath="$PROJECT_DIR$/04/ex00/ex001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/ex01/ex01.iml" filepath="$PROJECT_DIR$/05/ex01/ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/ex01/ex011.iml" filepath="$PROJECT_DIR$/04/ex01/ex011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/ex02/ex02.iml" filepath="$PROJECT_DIR$/05/ex02/ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_piscine.iml" filepath="$PROJECT_DIR$/java_piscine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/ex00/Tests/src/main/main.iml" filepath="$PROJECT_DIR$/06/ex00/Tests/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/ex01/Tests/src/main/main1.iml" filepath="$PROJECT_DIR$/06/ex01/Tests/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/ex00/Tests/src/test/test.iml" filepath="$PROJECT_DIR$/06/ex00/Tests/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/ex01/Tests/src/test/test1.iml" filepath="$PROJECT_DIR$/06/ex01/Tests/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>
