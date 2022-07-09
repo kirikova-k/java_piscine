@@ -6,6 +6,8 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Program {
+    private static final int FIRST_BYTES = 10;
+    private static final int SIZE_OF_BYTES_ARRAY = 20;
 
     public static void main(String[] args) throws IOException {
         Map<String, String> signatures = new HashMap<>();
@@ -35,7 +37,7 @@ public class Program {
 
             StringBuilder hex = new StringBuilder();
             FileInputStream argFile = null;
-            byte[] bytes = new byte[20];
+            byte[] bytes = new byte[SIZE_OF_BYTES_ARRAY];
 
 
             boolean isDefined = false;
@@ -43,7 +45,7 @@ public class Program {
             try {
                 resultFile = new FileOutputStream("result.txt", true);
                 argFile = new FileInputStream(input);
-                for (int i = 0; argFile.available() > 0 && i < 10; i++)
+                for (int i = 0; argFile.available() > 0 && i < FIRST_BYTES; i++)
                     hex.append(String.format("%02X ", argFile.read()));
                 String inputFileSignature = hex.toString();
                 String value = "";
