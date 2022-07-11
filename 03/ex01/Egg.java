@@ -1,3 +1,4 @@
+package ex01;
 public class Egg implements Runnable {
     private int count;
 

@@ -1,3 +1,4 @@
+package ex01;
 public class Hen implements Runnable {
     private int count;
 

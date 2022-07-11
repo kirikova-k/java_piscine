@@ -1,3 +1,4 @@
+package ex00;
 public class Hen extends Thread {
     private int count;
 

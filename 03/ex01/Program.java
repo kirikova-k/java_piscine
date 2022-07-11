@@ -1,3 +1,4 @@
+package ex01;
 public class Program {
 
     private static final int ERROR_EXIT_CODE = -1;

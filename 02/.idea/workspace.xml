@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="84c6c33a-e9d9-451c-a38d-b6c371bf054f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../03/03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/ex00/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03/ex00/Egg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/ex00/Hen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03/ex00/Hen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/ex00/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03/ex00/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/ex01/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03/ex01/Egg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/ex01/Hen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03/ex01/Hen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/ex01/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03/ex01/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/ex02/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03/ex02/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/ex02/myThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03/ex02/myThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +88,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657538044135</updated>
-      <workItem from="1657538045230" duration="6637000" />
+      <workItem from="1657538045230" duration="7382000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

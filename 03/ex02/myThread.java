@@ -1,4 +1,5 @@
 
+package ex02;
 import java.util.List;
 
 public class myThread extends Thread{

@@ -1,13 +1,16 @@
+package ex02;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Program {
     public static final int EXIT_ERROR_CODE = -1;
+    public static final int ARR_LENGTH_POS = 12;
+    public static final int NUM_OF_THREADS_POS = 15;
 
     public static void main(String[] args) {
-        int arrLength = Integer.parseInt(args[0].substring(12));
-        int numOfThreads = Integer.parseInt(args[1].substring(15));
+        int arrLength = Integer.parseInt(args[0].substring(ARR_LENGTH_POS));
+        int numOfThreads = Integer.parseInt(args[1].substring(NUM_OF_THREADS_POS));
         if (numOfThreads > arrLength) {
             System.err.println("Error: the number of threads must be less than the size of the array!\n");
             System.exit(EXIT_ERROR_CODE);
