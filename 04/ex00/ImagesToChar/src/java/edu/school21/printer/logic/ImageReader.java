@@ -8,6 +8,7 @@ import java.io.IOException;
 
 
 public class ImageReader {
+    private static final int ERROR_EXIT_CODE = -1;
     public static int[][] BMPToArray(String BMPFileName, char b, char w) throws IOException {
 
         BufferedImage image = null;
@@ -15,7 +16,7 @@ public class ImageReader {
             image = ImageIO.read(new FileInputStream(BMPFileName));
         } catch (IOException e) {
             System.err.println("Error: File not found!");
-            System.exit(-1);
+            System.exit(ERROR_EXIT_CODE);
         }
         int arr[][] = new int[image.getWidth()][image.getHeight()];
         for (int xPixel = 0; xPixel < image.getWidth(); xPixel++) {
