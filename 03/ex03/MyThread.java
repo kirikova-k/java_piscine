@@ -6,7 +6,8 @@ public class MyThread extends Thread{
     public void run() {
         String urlToDown;
 
-        while ((urlToDown = Downloader.getNextUrl()) != null)
+        while ((urlToDown = Downloader.getNextUrl()) != null) {
             Downloader.downloadFile(urlToDown);
+        }
     }
 }

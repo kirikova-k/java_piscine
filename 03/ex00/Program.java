@@ -24,7 +24,8 @@ public class Program {
             e.printStackTrace();
         }
 
-        for (int i = 0; i < count; i++)
+        for (int i = 0; i < count; i++) {
             System.out.println("HUMAN");
+        }
     }
 }

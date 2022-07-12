@@ -5,19 +5,19 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Program {
+    public static final int NUM_OF_THREADS_POS = 15;
     public static void main(String[] args) throws IOException {
-        int numOfThreads = Integer.parseInt(args[0].substring(15));
+        int numOfThreads = Integer.parseInt(args[0].substring(NUM_OF_THREADS_POS));
         BufferedReader br = new BufferedReader(new FileReader("ex03/files_urls.txt"));
         Queue<String> urls = new LinkedList<>();
 
         String url;
-        while ((url = br.readLine()) != null)
+        while ((url = br.readLine()) != null) {
             urls.add(url);
-
+        }
         Downloader.initQ(urls);
-
-        for (int i = 0 ; i < numOfThreads; i++)
+        for (int i = 0 ; i < numOfThreads; i++) {
             new MyThread().start();
-
+        }
     }
 }

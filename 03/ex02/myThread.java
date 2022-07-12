@@ -2,12 +2,11 @@
 package ex02;
 import java.util.List;
 
-public class myThread extends Thread{
+public class myThread extends Thread {
     private static int sumOfThreads = 0;
     int begin;
     int last;
     int localSum;
-
 
     private static synchronized void addToSum(int localSum, int b, int l) {
         System.out.println(Thread.currentThread().getName() +
