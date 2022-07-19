@@ -29,24 +29,20 @@ public class Program {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         String input = "";
         Scanner scan = new Scanner(System.in);
-
         while (!(input = scan.nextLine()).equals("42")) {
-
             StringBuilder hex = new StringBuilder();
             FileInputStream argFile = null;
             byte[] bytes = new byte[SIZE_OF_BYTES_ARRAY];
-
-
             boolean isDefined = false;
             FileOutputStream resultFile = null;
             try {
                 resultFile = new FileOutputStream("result.txt", true);
                 argFile = new FileInputStream(input);
-                for (int i = 0; argFile.available() > 0 && i < FIRST_BYTES; i++)
+                for (int i = 0; argFile.available() > 0 && i < FIRST_BYTES; i++) {
                     hex.append(String.format("%02X ", argFile.read()));
+                }
                 String inputFileSignature = hex.toString();
                 String value = "";
                 for (String key : signatures.keySet()) {
@@ -58,22 +54,23 @@ public class Program {
                         isDefined = true;
                     }
                 }
-
-                if (isDefined == false)
+                if (isDefined == false) {
                     System.out.println("UNDEFINED");
+                }
             } catch (IOException e) {
                 e.printStackTrace();
             } finally {
-                try {
-                    if (argFile != null)
+                    try {
+                    if (argFile != null) {
                         argFile.close();
-                    if (resultFile != null)
+                    }
+                    if (resultFile != null) {
                         resultFile.close();
+                    }
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
             }
         }
-
     }
 }

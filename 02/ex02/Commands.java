@@ -19,11 +19,12 @@ public class Commands {
         Stream<Path> stream = Files.walk(curDir, 1);
         list = stream.collect(Collectors.toList());
         for (Path x : list) {
-            if (x.getFileName().toString().startsWith("."))
+            if (x.getFileName().toString().startsWith(".")) {
                 continue;
-            if (!x.equals(curDir))
+            }
+            if (!x.equals(curDir)) {
                 System.out.println(x.getFileName() + " " + Files.size(x) + " KB");
-
+            }
         }
     }
 
@@ -33,8 +34,9 @@ public class Commands {
             this.setCurDir(sumOfPaths.normalize());
             System.out.println(this.getCurDir());
         }
-        else
+        else {
             System.out.println("Wrong path");
+        }
     }
 
     public void mv(Path srcP, Path destP) throws IOException {
@@ -42,13 +44,14 @@ public class Commands {
         Path tmpD = Paths.get(this.getCurDir() + "/" + destP).normalize();
 
         if (Files.isRegularFile(tmpS)) {
-            if (Files.isDirectory(tmpD))
+            if (Files.isDirectory(tmpD)) {
                 tmpD = Paths.get(tmpD + "/" + tmpS.getFileName());
+            }
             Files.move(tmpS, tmpD, REPLACE_EXISTING);
         }
-        else
+        else {
             System.out.println("Wrong source file path");
-
+        }
     }
 
     public Commands(Path curDir) {

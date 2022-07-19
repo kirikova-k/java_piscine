@@ -13,10 +13,7 @@ public class Program {
         } else {
             startPath = Paths.get(System.getenv("HOME"));
         }
-
         Commands cmds = new Commands(startPath);
-
-
         Scanner scan = new Scanner(System.in);
         String inputLine;
         while ((inputLine = scan.nextLine()) != null) {
