@@ -1,3 +1,4 @@
+package ex03;
 import java.util.UUID;
 
 public class TransactionsLinkedList implements TransactionsList {
@@ -14,6 +15,7 @@ public class TransactionsLinkedList implements TransactionsList {
         list.prev = list;
         count = 0;
     }
+    @Override
     public void addTransaction(Transaction t) {
         Node nodeToInsert = new Node();
         nodeToInsert.data = t;
@@ -22,7 +24,7 @@ public class TransactionsLinkedList implements TransactionsList {
         linkNodes(nodeToInsert, list);
         count++;
     }
-
+    @Override
     public void removeTransactionById(UUID id) throws TransactionNotFoundException {
         Node current = list.next;
         while (current != list)
@@ -38,6 +40,7 @@ public class TransactionsLinkedList implements TransactionsList {
         throw new TransactionNotFoundException();
     }
 
+    @Override
     public Transaction[] toArray() {
         Transaction[] transactionArray = new Transaction[count];
         Node current = list.next;

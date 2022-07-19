@@ -1,3 +1,4 @@
+package ex03;
 public class UserIdsGenerator {
     private int previousId;
     public static UserIdsGenerator getInstance() {

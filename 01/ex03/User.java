@@ -1,4 +1,4 @@
-package ex00;
+package ex03;
 public class User {
     private String name;
     private int identifier;
