@@ -35,8 +35,10 @@ public class MessagesRepositoryJdbcImpl implements MessagesRepository {
             optionalMessage = Optional.of(new Message(resultSet.getInt(1), user, chatroom, resultSet.getString("message"), LocalDate.of(2014, 9, 19)));
             return optionalMessage;
         } catch (SQLException e) {
-            System.err.println(e);
+            System.err.println("Message not found!");
         }
+        statement.close();
+        connection.close();
         return Optional.empty();
     }
 
@@ -61,6 +63,5 @@ public class MessagesRepositoryJdbcImpl implements MessagesRepository {
             throw new NotSavedSubEntityException();
         }
         return true;
-
     }
 }

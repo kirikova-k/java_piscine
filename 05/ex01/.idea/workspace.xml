@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62cc14d6-336b-4937-a9b2-94715b4e90ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Chat_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__com_github_stephenc_high_scale_lib_high_scale_lib_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__com_github_stephenc_jamm_0_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__com_google_guava_guava_r08.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__com_googlecode_concurrentlinkedhashmap_concurrentlinkedhashmap_lru_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__commons_cli_commons_cli_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__junit_junit_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_antlr_antlr_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_antlr_antlr_runtime_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_antlr_stringtemplate_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_apache_cassandra_cassandra_all_0_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_apache_cassandra_cassandra_thrift_0_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_apache_cassandra_deps_avro_1_4_0_cassandra_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_apache_thrift_libthrift_0_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_postgresql_postgresql_42_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Chat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex00/Chat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex00/Chat/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex00/Chat/target/Chat-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex00/Chat/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex00/Chat/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../ex00/Chat/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/target/Chat-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/target/Chat-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Bz3T8zZR64bGHVamih0nR0iWJD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62cc14d6-336b-4937-a9b2-94715b4e90ed" name="Changes" comment="" />
+      <created>1657895091067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657895091067</updated>
+      <workItem from="1657895092135" duration="14000" />
+      <workItem from="1657986442085" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

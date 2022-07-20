@@ -32,10 +32,13 @@ public class MessagesRepositoryJdbcImpl implements MessagesRepository {
         Chatroom chatroom = new Chatroom(1, "chatroom", null, null);
         try {
             optionalMessage = Optional.of(new Message(resultSet.getInt(1), user, chatroom, resultSet.getString("message"), LocalDateTime.of(2014, 9, 19, 14, 5)));
+
             return optionalMessage;
         } catch (SQLException e) {
-            System.err.println(e);
+            System.err.println("Message not found!");
         }
+        statement.close();
+        connection.close();
         return Optional.empty();
     }
 }
