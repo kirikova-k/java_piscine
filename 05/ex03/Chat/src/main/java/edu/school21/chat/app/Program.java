@@ -23,24 +23,12 @@ public class Program {
 
         MessagesRepository repository = new MessagesRepositoryJdbcImpl(ds);
 
-        Message m = repository.findById(1L).get();
+        Message m = repository.findById(3L).get();
         User newAuthor = new User(2, "lol", "lol", new ArrayList<>(), new ArrayList<>());
         m.setAuthor(newAuthor);
 
         repository.update(m);
 
         ds.close();
-//        MessagesRepository repository = new MessagesRepositoryJdbcImpl(ds);
-//
-//
-//        User author = new User(1, "ogarthar", "123456", new ArrayList(), new ArrayList());
-//        Chatroom room = new Chatroom(1, "chat1", author, new ArrayList());
-//
-//        Message msg = new Message(null, author, room, "new text", LocalDate.now());
-//
-//        repository.save(msg);
-//
-//        System.out.println(msg.getId());
-
     }
 }
