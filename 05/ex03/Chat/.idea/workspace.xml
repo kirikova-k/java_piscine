@@ -4,16 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b45f63a5-f27e-4f07-a983-ef4cf847058a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex01/Chat/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex01/Chat/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex01/Chat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="fba767df-f53d-43fb-9a64-35ec0b63fd45" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Chat_1_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2368c4a5-cf6e-4a57-acfe-9efbabe4c736.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2368c4a5-cf6e-4a57-acfe-9efbabe4c736/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2368c4a5-cf6e-4a57-acfe-9efbabe4c736/storage_v2/_src_/database/postgres.edMnLQ/schema/chat.WJMuAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2368c4a5-cf6e-4a57-acfe-9efbabe4c736/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2368c4a5-cf6e-4a57-acfe-9efbabe4c736/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2368c4a5-cf6e-4a57-acfe-9efbabe4c736/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/school21/chat/app/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/school21/chat/app/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2CFzbXJDe0IhzeEKq0a81ejo4kK" />
+  <component name="ProjectId" id="2CGEW3vG1cGemYOTGSPj8GPtpEm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -69,12 +70,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b45f63a5-f27e-4f07-a983-ef4cf847058a" name="Changes" comment="" />
-      <created>1658413194101</created>
+      <changelist id="fba767df-f53d-43fb-9a64-35ec0b63fd45" name="Changes" comment="" />
+      <created>1658420549768</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658413194101</updated>
-      <workItem from="1658416062318" duration="734000" />
+      <updated>1658420549768</updated>
+      <workItem from="1658420552471" duration="449000" />
     </task>
     <servers />
   </component>

@@ -23,8 +23,8 @@ public class Program {
 
         MessagesRepository repository = new MessagesRepositoryJdbcImpl(ds);
 
-        Message m = repository.findById(3L).get();
-        User newAuthor = new User(2, "lol", "lol", new ArrayList<>(), new ArrayList<>());
+        Message m = repository.findById(10L).get();
+        User newAuthor = new User(6, "lol", "lol", new ArrayList<>(), new ArrayList<>());
         m.setAuthor(newAuthor);
 
         repository.update(m);
