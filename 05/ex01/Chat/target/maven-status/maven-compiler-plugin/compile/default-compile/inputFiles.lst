@@ -1,0 +1,6 @@
+/Users/ogarthar/java_piscine/05/ex01/Chat/src/main/java/edu/school21/chat/repositories/MessagesRepository.java
+/Users/ogarthar/java_piscine/05/ex01/Chat/src/main/java/edu/school21/chat/app/Program.java
+/Users/ogarthar/java_piscine/05/ex01/Chat/src/main/java/edu/school21/chat/models/Message.java
+/Users/ogarthar/java_piscine/05/ex01/Chat/src/main/java/edu/school21/chat/models/Chatroom.java
+/Users/ogarthar/java_piscine/05/ex01/Chat/src/main/java/edu/school21/chat/models/User.java
+/Users/ogarthar/java_piscine/05/ex01/Chat/src/main/java/edu/school21/chat/repositories/MessagesRepositoryJdbcImpl.java

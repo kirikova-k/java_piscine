@@ -4,9 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23657358-8ed9-48d3-bf4f-199109d1ab16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../ex03/Chat/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex03/Chat/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex03/Chat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex03/Chat/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="75f98629-6e30-4608-9fed-2142e8fc07e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ex00/Chat/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex00/Chat/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex00/Chat/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex00/Chat/Chat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex00/Chat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex00/Chat/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex00/Chat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex00/Chat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex01/Chat/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex01/Chat/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex01/Chat/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/dataSources/434c94e1-2a08-4c9b-8405-08085cffa85d.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/dataSources/434c94e1-2a08-4c9b-8405-08085cffa85d/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/dataSources/434c94e1-2a08-4c9b-8405-08085cffa85d/storage_v2/_src_/database/postgres.edMnLQ/schema/chat.WJMuAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/dataSources/434c94e1-2a08-4c9b-8405-08085cffa85d/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/dataSources/434c94e1-2a08-4c9b-8405-08085cffa85d/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/dataSources/434c94e1-2a08-4c9b-8405-08085cffa85d/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/libraries/Chat_1_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex01/Chat/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex01/Chat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex01/Chat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6ac36936-19ad-40b3-a9dc-fe9875127224.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6ac36936-19ad-40b3-a9dc-fe9875127224/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6ac36936-19ad-40b3-a9dc-fe9875127224/storage_v2/_src_/database/postgres.edMnLQ/schema/chat.WJMuAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6ac36936-19ad-40b3-a9dc-fe9875127224/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6ac36936-19ad-40b3-a9dc-fe9875127224/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6ac36936-19ad-40b3-a9dc-fe9875127224/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +54,24 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2CDemcnA6gKnd2UriPsyuxWSgPv" />
+  <component name="ProjectId" id="2CX19ITRZLxqpXNOlfb82RzTP84" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="postgresql" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.school21.chat.app.Program" />
@@ -61,12 +95,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="23657358-8ed9-48d3-bf4f-199109d1ab16" name="Changes" comment="" />
-      <created>1658341746891</created>
+      <changelist id="75f98629-6e30-4608-9fed-2142e8fc07e9" name="Changes" comment="" />
+      <created>1658933965010</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658341746891</updated>
-      <workItem from="1658341749011" duration="1816000" />
+      <updated>1658933965010</updated>
+      <workItem from="1658933966208" duration="106000" />
     </task>
     <servers />
   </component>
